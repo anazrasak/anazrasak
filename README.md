@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on web devolpment, React native
-- 📫 How to reach me anazheinz@gmail.com
+- 📫 How to reach me anazrasak@gmail.com
 
 <!---
 anazrasak/anazrasak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
